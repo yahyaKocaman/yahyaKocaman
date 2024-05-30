@@ -1,5 +1,5 @@
 
- [![MasterHead](https://wallpapercave.com/wp/wp1810664.jpg)
+ ![MasterHead](https://wallpapercave.com/wp/wp1810664.jpg)
 <h1 align="center">Hi 👋, I'm yahya</h1>
 <h3 align="center">A passionate software developer from Türkiye</h3>
 
