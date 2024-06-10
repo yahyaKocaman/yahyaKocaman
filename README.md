@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **yahyakocaman28@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/yahya-kocaman-70b8b3246/](https://www.linkedin.com/in/yahya-kocaman-70b8b3246)]
+- 📄 Know about my experiences [https://www.linkedin.com/in/yahya-kocaman-70b8b3246/](https://www.linkedin.com/in/yahya-kocaman-70b8b3246)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
