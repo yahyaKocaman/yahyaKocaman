@@ -1,5 +1,5 @@
 
- ![MasterHead](https://i.pinimg.com/originals/85/25/9b/85259bd8df91b79431df93986d0040d5.png)
+ ![MasterHead](https://i.pinimg.com/736x/bb/dd/a6/bbdda66af76c92d0edefe14c8993ed48.jpg)
 <h1 align="center">Hi 👋, I'm yahya</h1>
 <h3 align="center">A passionate software developer from Türkiye</h3>
 
