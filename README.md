@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [RecipeApp](https://github.com/yahyaKocaman/RecipeApp)
 
-- 🌱 I’m currently learning **Flask**
+- 🌱 I’m currently learning **Machine Learning In Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/yahyaKocaman?tab=repositories](https://github.com/yahyaKocaman?tab=repositories)
 
