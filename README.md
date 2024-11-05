@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm yahya</h1>
 <h3 align="center">A passionate software developer from Türkiye</h3>
 
-- 🔭 I’m currently working on [RecipeApp](https://github.com/yahyaKocaman/RecipeApp)
+- 🔭 I’m currently working on [MusicCreatorAi](https://github.com/yahyaKocaman/MusicCreatorAi.git)
 
 - 🌱 I’m currently learning **Machine Learning In Python**
 
