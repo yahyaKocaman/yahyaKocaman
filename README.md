@@ -1,25 +1,22 @@
 ![MasterHead](https://i.pinimg.com/736x/bb/dd/a6/bbdda66af76c92d0edefe14c8993ed48.jpg)
+
 <h1 align="center">Hi 👋, I'm Yahya</h1>
 <h3 align="center">A passionate software developer from Türkiye</h3>
 
 - 🔭 I’m currently working on [MusicCreatorAi](https://github.com/yahyaKocaman/MusicCreatorAi.git)
-
 - 🌱 I’m currently learning **Machine Learning In Python**
-
-- 👨‍💻 All of my projects are available at [https://github.com/yahyaKocaman?tab=repositories](https://github.com/yahyaKocaman?tab=repositories)
-
-- 📫 How to reach me **yahyakocaman28@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/yahya-kocaman-70b8b3246/](https://www.linkedin.com/in/yahya-kocaman-70b8b3246)
+- 👨‍💻 All of my projects are available at [GitHub Repositories](https://github.com/yahyaKocaman?tab=repositories)
+- 📫 How to reach me: **yahyakocaman28@gmail.com**
+- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/yahya-kocaman-70b8b3246/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/yahya-kocaman-70b8b3246/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Yahya Kocaman" height="30" width="40" />
-</a>
-<a href="https://instagram.com/yahya_kocaman" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yahya_kocaman" height="30" width="40" />
-</a>
+  <a href="https://www.linkedin.com/in/yahya-kocaman-70b8b3246/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Yahya Kocaman" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/yahya_kocaman" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yahya_kocaman" height="30" width="40" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
