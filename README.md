@@ -1,4 +1,4 @@
-![MasterHead](https://i.pinimg.com/736x/bb/dd/a6/bbdda66af76c92d0edefe14c8993ed48.jpg)
+![MasterHead](https://github.com/yahyaKocaman/yahyaKocaman/blob/afd77b06eedd5c7f1be97f72f75afd185e8275c5/IMG_0868.jpeg)
 
 <h1 align="center">Hi 👋, I'm Yahya</h1>
 <h3 align="center">A passionate software developer from Türkiye</h3>
