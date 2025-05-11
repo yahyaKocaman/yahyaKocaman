@@ -9,7 +9,6 @@
 - 📫 How to reach me: **yahyakocaman28@gmail.com**
 - 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/yahya-kocaman-70b8b3246/)
 
-<img src="https://media.giphy.com/media/xTiTnDVB9t4kGrWU24/giphy.gif?cid=ecf05e47fw010bf5wuhfajd8gx8xt2so078c4f6s4ll926dt&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="600" alt="Project Demo" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -66,3 +65,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yahyaKocaman/yahyaKocaman/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/yahyaKocaman/yahyaKocaman/output/github-contribution-grid-snake.svg">
 </picture>
+
+<img src="https://media.giphy.com/media/xTiTnDVB9t4kGrWU24/giphy.gif?cid=ecf05e47fw010bf5wuhfajd8gx8xt2so078c4f6s4ll926dt&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="600" alt="Project Demo" />
