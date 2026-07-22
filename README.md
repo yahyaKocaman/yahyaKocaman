@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Yahya</h1>
 <h3 align="center">A passionate software developer from Türkiye</h3>
 
-- 🔭 I’m currently working on [MusicCreatorAi](https://github.com/yahyaKocaman/MusicCreatorAi.git)
+- 🔭 I’m currently working on [REGENDARY](https://github.com/yahyaKocaman/REGENDARY)
 - 🌱 I’m currently learning **Machine Learning In Python**
 - 👨‍💻 All of my projects are available at [GitHub Repositories](https://github.com/yahyaKocaman?tab=repositories)
 - 📫 How to reach me: **yahyakocaman28@gmail.com**
