@@ -16,10 +16,10 @@
 
 ## About
 
-Working on machine learning with Python — model training, evaluation, and getting models out of the notebook and into products people actually use. I ship the surrounding system too: **[REGENDARY](https://github.com/yahyaKocaman/REGENDARY)** is a football scouting platform I built end to end, from the React client to the Node.js API on a VPS, and it is where I apply what I learn on real data.
+Machine learning with Python — training and evaluating models, and getting them out of the notebook and into something people can actually use. Most of what I learn comes from putting models in front of real data and real users rather than from tutorials, which also means I am comfortable building and deploying the system around a model, not only the model itself.
 
 - Focus — machine learning and applied AI in Python
-- Building — [REGENDARY](https://github.com/yahyaKocaman/REGENDARY), a football scouting platform
+- Also — full-stack development, most recently [REGENDARY](https://github.com/yahyaKocaman/REGENDARY)
 - Portfolio — [all repositories](https://github.com/yahyaKocaman?tab=repositories)
 - Contact — yahyakocaman28@gmail.com
 
