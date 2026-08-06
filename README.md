@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/yahyaKocaman/yahyaKocaman/main/assets/banner.svg" alt="Yahya Kocaman — Software Developer" width="100%" />
+<img src="https://raw.githubusercontent.com/yahyaKocaman/yahyaKocaman/main/assets/banner.svg" alt="Yahya Kocaman — machine learning and applied AI" width="100%" />
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yahya-kocaman-70b8b3246/">
@@ -58,15 +58,10 @@ Machine learning with Python — training and evaluating models, and getting the
 
 ---
 
-## GitHub Stats
+## Activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yahyaKocaman&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400&theme=github_dark" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=yahyaKocaman&layout=compact&hide_border=true&langs_count=8&cache_seconds=86400&theme=github_dark" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img height="165" src="https://streak-stats.demolab.com?user=yahyaKocaman&hide_border=true&theme=github-dark" alt="Contribution streak" />
+  <img height="180" src="https://streak-stats.demolab.com?user=yahyaKocaman&hide_border=true&card_width=520&theme=github-dark" alt="Contribution streak" />
 </p>
 
 <picture>
