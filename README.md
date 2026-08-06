@@ -1,7 +1,4 @@
-<img src="https://raw.githubusercontent.com/yahyaKocaman/yahyaKocaman/afd77b06eedd5c7f1be97f72f75afd185e8275c5/IMG_0868.jpeg" alt="" width="100%" />
-
-<h1 align="center">Yahya Kocaman</h1>
-<p align="center">Software Developer · Türkiye</p>
+<img src="https://raw.githubusercontent.com/yahyaKocaman/yahyaKocaman/main/assets/banner.svg" alt="Yahya Kocaman — Software Developer" width="100%" />
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yahya-kocaman-70b8b3246/">
@@ -19,10 +16,10 @@
 
 ## About
 
-Full-stack developer building mobile and web products end to end — from React/Capacitor clients to Node.js APIs and VPS deployments. Currently focused on **[REGENDARY](https://github.com/yahyaKocaman/REGENDARY)**, a football scouting platform, and studying machine learning with Python.
+Working on machine learning with Python — model training, evaluation, and getting models out of the notebook and into products people actually use. I ship the surrounding system too: **[REGENDARY](https://github.com/yahyaKocaman/REGENDARY)** is a football scouting platform I built end to end, from the React client to the Node.js API on a VPS, and it is where I apply what I learn on real data.
 
-- Currently building — [REGENDARY](https://github.com/yahyaKocaman/REGENDARY)
-- Currently learning — Machine Learning in Python
+- Focus — machine learning and applied AI in Python
+- Building — [REGENDARY](https://github.com/yahyaKocaman/REGENDARY), a football scouting platform
 - Portfolio — [all repositories](https://github.com/yahyaKocaman?tab=repositories)
 - Contact — yahyakocaman28@gmail.com
 
@@ -30,45 +27,46 @@ Full-stack developer building mobile and web products end to end — from React/
 
 ## Tech Stack
 
-**Languages**
+**Machine Learning & Data**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
-**Frameworks & Platforms**
+**Backend & Serving**
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=flat-square&logo=capacitor&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
-
-**Data & Infrastructure**
-
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+
+**Frontend & Mobile**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
 ---
 
 ## GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yahyaKocaman&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=github_dark" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=yahyaKocaman&layout=compact&hide_border=true&langs_count=8&theme=github_dark" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yahyaKocaman&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400&theme=github_dark" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=yahyaKocaman&layout=compact&hide_border=true&langs_count=8&cache_seconds=86400&theme=github_dark" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=yahyaKocaman&hide_border=true&theme=github-dark" alt="Contribution streak" />
+  <img height="165" src="https://streak-stats.demolab.com?user=yahyaKocaman&hide_border=true&theme=github-dark" alt="Contribution streak" />
 </p>
 
 <picture>
