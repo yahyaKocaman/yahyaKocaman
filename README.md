@@ -1,6 +1,9 @@
 <img src="https://raw.githubusercontent.com/yahyaKocaman/yahyaKocaman/main/assets/banner.svg" alt="Yahya Kocaman — machine learning and applied AI" width="100%" />
 
 <p align="center">
+  <a href="https://yahyakocaman.github.io/portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=googlechrome&logoColor=22D3EE" alt="Portfolio" />
+  </a>
   <a href="https://www.linkedin.com/in/yahya-kocaman-70b8b3246/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -18,9 +21,10 @@
 
 Machine learning with Python — training and evaluating models, and getting them out of the notebook and into something people can actually use. Most of what I learn comes from putting models in front of real data and real users rather than from tutorials, which also means I am comfortable building and deploying the system around a model, not only the model itself.
 
+- Portfolio — [yahyakocaman.github.io/portfolio](https://yahyakocaman.github.io/portfolio/)
 - Focus — machine learning and applied AI in Python
 - Also — full-stack development, most recently [REGENDARY](https://github.com/yahyaKocaman/REGENDARY)
-- Portfolio — [all repositories](https://github.com/yahyaKocaman?tab=repositories)
+- Code — [all repositories](https://github.com/yahyaKocaman?tab=repositories)
 - Contact — yahyakocaman28@gmail.com
 
 ---
