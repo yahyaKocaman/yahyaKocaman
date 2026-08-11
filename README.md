@@ -52,10 +52,10 @@ Machine learning with Python — training and evaluating models, and getting the
 
 **Backend & Serving**
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -81,3 +81,11 @@ Machine learning with Python — training and evaluating models, and getting the
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yahyaKocaman/yahyaKocaman/output/github-contribution-grid-snake.svg">
   <img src="https://raw.githubusercontent.com/yahyaKocaman/yahyaKocaman/output/github-contribution-grid-snake.svg" alt="Contribution graph" />
 </picture>
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/xTiTnDVB9t4kGrWU24/giphy.gif?cid=ecf05e47fw010bf5wuhfajd8gx8xt2so078c4f6s4ll926dt&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="600" alt="Coding" />
+</p>
+
+<p align="center"><i>Thanks for stopping by.</i></p>
