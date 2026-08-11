@@ -72,10 +72,6 @@ Machine learning with Python — training and evaluating models, and getting the
 
 ## Activity
 
-<p align="center">
-  <img height="180" src="https://streak-stats.demolab.com?user=yahyaKocaman&hide_border=true&card_width=520&theme=github-dark" alt="Contribution streak" />
-</p>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yahyaKocaman/yahyaKocaman/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yahyaKocaman/yahyaKocaman/output/github-contribution-grid-snake.svg">
@@ -88,4 +84,3 @@ Machine learning with Python — training and evaluating models, and getting the
   <img src="https://media.giphy.com/media/xTiTnDVB9t4kGrWU24/giphy.gif?cid=ecf05e47fw010bf5wuhfajd8gx8xt2so078c4f6s4ll926dt&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="600" alt="Coding" />
 </p>
 
-<p align="center"><i>Thanks for stopping by.</i></p>
